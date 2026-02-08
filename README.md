@@ -1,4 +1,4 @@
-# 🔍 **Search Engine with Tools and Agents**
+# 🔍 **Agent Based Search Engine with Tool Integration**
 
 <div align="center">
 
@@ -17,7 +17,7 @@ Search • Fetch • Process • Trace — all through intelligent agents
 ![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
 🔗 **GitHub Repository:**  
-https://github.com/kirantushar10/Search-Engine-with-Tools-and-Agents
+https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration-.git
 
 </div>
 
@@ -88,7 +88,7 @@ Adding LangSmith makes the workflow transparent and easy to optimize.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/kirantushar10/Search-Engine-with-Tools-and-Agents.git
+https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration-.git
 cd Search-Engine-with-Tools-and-Agents
 ```
 
@@ -103,7 +103,7 @@ Add them to the .env file:
 
 ```bash
 LANGCHAIN_API_KEY = "Add your Langchain API key here"
-LANGCHAIN_PROJECT = "Search Engine With Tools And Agents"
+LANGCHAIN_PROJECT = "Agent Based Search Engine with Tool Integration"
 HF_TOKEN = "Add your Hugging Face API key here"
 GROQ_API_KEY = "Add your Groq API key here"
 ```
