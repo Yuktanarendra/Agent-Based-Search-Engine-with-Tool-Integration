@@ -17,7 +17,7 @@ Search • Fetch • Process • Trace — all through intelligent agents
 ![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
 🔗 **GitHub Repository:**  
-https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration-.git
+https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration.git
 
 </div>
 
@@ -88,8 +88,8 @@ Adding LangSmith makes the workflow transparent and easy to optimize.
 ### 1️⃣ Clone the repository
 
 ```bash
-https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration-.git
-cd Search-Engine-with-Tools-and-Agents
+https://github.com/Yuktanarendra/Agent-Based-Search-Engine-with-Tool-Integration.git
+cd Agent-Based-Search-Engine-with-Tool-Integration
 ```
 
 ### 2️⃣ Install all dependencies
